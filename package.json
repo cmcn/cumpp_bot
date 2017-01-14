@@ -1,0 +1,24 @@
+{
+  "name": "cumpp-bot",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmcn/cumpp-bot"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmcn/cumpp-bot/issues"
+  },
+  "homepage": "https://github.com/cmcn/cumpp-bot",
+  "dependencies": {
+    "request": "^2.74.0",
+  }
+}
